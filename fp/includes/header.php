@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="css/styles.css" />
 <link rel="stylesheet" href="css/form.css" />
 <link rel="stylesheet" href="css/forms.css" />
+    <link rel="stylesheet" href="css/gallery.css" />
 
 
 </head>
@@ -18,7 +19,7 @@
 <!-- START WRAPPER -->
 <main class="wrapper">
 <header>
-  <h1><a href="index.php"><img src="image/logoalumina.png" id="logo" alt="" /></a></h1>
+  <a href="index.php"><img src="image/logoalumina.png" id="logo" alt="" /></a>
   <nav>
     <ul class="topnav" id="myTopnav">
       <li><a href="index.php" class="selected">Home</a></li>

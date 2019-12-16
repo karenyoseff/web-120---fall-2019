@@ -4,7 +4,7 @@
 
 
 html, body {
-    background-color: lightgrey;
+    background-color: white;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: dimgrey;
@@ -103,7 +103,10 @@ footer a:hover{
         width:60%;
         float:left;
     }
-
+    .gall {
+        width:100%;
+        float:left;
+    }
     
     aside {    
         width:39%;
@@ -137,6 +140,10 @@ footer a:hover{
         float:left;
     }
     
+    .gall {
+        width:100%;
+        float:left;
+    }
     aside {    
         width:39%;
         float:right;
@@ -146,6 +153,7 @@ footer a:hover{
         width:100%;
         display:inline-block;
     }
+    
     
     img.phone {
         display:none;
@@ -171,9 +179,13 @@ footer a:hover{
            display:none;
         }  
     #logo {
-        width: 80%;
+        width: 70%;
         display:inline-block;
-        float: center;
+        float: left;
+    }
+    .gall {
+        width:100%;
+        float:left;
     }
 
 }

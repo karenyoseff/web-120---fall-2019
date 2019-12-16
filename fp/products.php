@@ -6,21 +6,45 @@
 
 <h2 class="pageID"><?=$PageID?></h2>
 
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-<p>Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+  </section>
+<section class="gall"> 
+     
+<div class="gallery">
+  <a target="_blank" href="image/door.jpg">
+    <img src="image/door_small.jpg" alt="Puerta Aluminio" width="600" height="400">
+  </a>
+  <div class="desc">Puertas de Aluminio a la medida</div>
+</div>
 
-    </section>
+<div class="gallery">
+  <a target="_blank" href="image/window.jpg">
+    <img src="image/window_small.jpg" alt="Ventana de Aluminio" width="600" height="400">
+  </a>
+  <div class="desc">Ventana de Aluminio a la medida</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="image/wood.JPG">
+    <img src="image/wood_small.jpg" alt="wood window" width="600" height="400">
+  </a>
+  <div class="desc">Acabados en madera a la medida</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="image/const.jpg">
+    <img src="image/const_small.jpg" alt="Construccion" width="600" height="400">
+  </a>
+  <div class="desc">Servicio de construccion</div>
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="image/elect.jpg">
+    <img src="image/elect_small.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Puertas electricas de aluminio</div>
+</div>
+
+  </section>
     
-
-
- <aside id="pic">
-        <img src="image/about.png"  />
-
-
-
-
-</aside>
 
  
 <?php include "includes/footer.php";?>
