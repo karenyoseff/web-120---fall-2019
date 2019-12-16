@@ -48,7 +48,11 @@ switch(THIS_PAGE)
 //        $logo 'fa-users';
         $PageID = 'Contact';
     break;  
-
+        case 'disclaimer.php':
+        $title = 'Disclaimer / Privacy Notice';
+//        $logo 'fa-users';
+        $PageID = 'Disclaimer / Privacy Notice';
+    break; 
     default:
         $title = THIS_PAGE;
         $logo = '';
